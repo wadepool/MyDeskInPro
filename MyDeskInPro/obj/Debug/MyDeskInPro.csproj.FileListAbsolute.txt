@@ -1,0 +1,12 @@
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\MyDeskInPro.dll
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\MyDeskInPro.pdb
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\Crestron.SimplSharpPro.DM.dll
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\Crestron.SimplSharpPro.Fusion.dll
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\Crestron.SimplSharpPro.UI.dll
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\bin\Debug\SimplSharpPro.exe
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\obj\Debug\MyDeskInPro.dll
+C:\Users\rage\Scripts\CSharp\VS2008\MyDeskInPro\MyDeskInPro\obj\Debug\MyDeskInPro.pdb
