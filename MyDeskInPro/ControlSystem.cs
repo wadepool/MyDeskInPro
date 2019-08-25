@@ -61,17 +61,21 @@ namespace MyDeskInPro
         deskPanel.Name = "Touch Panel";
         deskPanel.OnlineStatusChange += new OnlineStatusChangeEventHandler(PanelOnlineStatusChange);
         deskPanel.SigChange += new SigEventHandler(PanelSigChanges);
+        
+        deskPanel.ExtenderHardButtonReservedSigs.Use();
+        
         deskPanel.ExtenderHardButtonReservedSigs.TurnButton1BackLightOff();
         deskPanel.ExtenderHardButtonReservedSigs.TurnButton2BackLightOff();
         deskPanel.ExtenderHardButtonReservedSigs.TurnButton3BackLightOff();
-        deskPanel.ExtenderHardButtonReservedSigs.TurnButton1BackLightOn();
-        deskPanel.ExtenderHardButtonReservedSigs.TurnButton1BackLightOn();
+        deskPanel.ExtenderHardButtonReservedSigs.TurnButton4BackLightOn();
+        deskPanel.ExtenderHardButtonReservedSigs.TurnButton5BackLightOn();
+        
         deskPanel.Register();
 
         deskPanel.StringInput[10].StringValue = "Beta - Prog";
         deskPanel.StringInput[11].StringValue = "No Input Selected";
 
-        deskXpanel = new XpanelForSmartGraphics(0x03, this);
+        deskXpanel = new XpanelForSmartGraphics(0x04, this);
         deskXpanel.Name = "Xpanel";
         deskXpanel.OnlineStatusChange += new OnlineStatusChangeEventHandler(PanelOnlineStatusChange);
         deskXpanel.SigChange += new SigEventHandler(PanelSigChanges);
